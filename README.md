@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **You can find more about me here:**  
-|  <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a><img src="https://media-exp1.licdn.com/dms/image/C5603AQGw-zeIy6N9_Q/profile-displayphoto-shrink_200_200/0/1634777410678?e=1655337600&v=beta&t=lZCc-CF9_bLwxl0RNeXB_HvBh4yg8XzTotNYIuD_v_8" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |<a href="https://www.linkedin.com/in/rahulnayaki"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>
 
