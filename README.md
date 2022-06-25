@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-**You can find more about me here:**  
-|  <a><img src="https://media-exp1.licdn.com/dms/image/C5603AQGw-zeIy6N9_Q/profile-displayphoto-shrink_200_200/0/1634777410678?e=1655337600&v=beta&t=lZCc-CF9_bLwxl0RNeXB_HvBh4yg8XzTotNYIuD_v_8" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|<a href="https://www.linkedin.com/in/rahulnayaki"><img src="https://www.facebook.com/LinkedInAu/photos/a.354698365186315/907349079921238/" width="32px" height="32px"></a>
-
-
 <!--
 **RahulNayaki/RahulNayaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
